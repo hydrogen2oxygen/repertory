@@ -1,2 +1,2 @@
-# repertory
+# Repertory
 Homeopathy Repertory and Knowledge Database
